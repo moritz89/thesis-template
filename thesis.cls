@@ -252,7 +252,6 @@
   breaklinks=true,
   pdffitwindow=true,
   pdfcreator={XeTeX \the\XeTeXversion\XeTeXrevision},
-  pdfproducer={XeTeX with hyperref, TikZ and many more packages},
   pdfencoding=auto
 }
 \def\UrlFont{\itshape}
